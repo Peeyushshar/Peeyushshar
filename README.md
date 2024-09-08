@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peeyushshar&label=Profile%20views&color=0e75b6&style=flat" alt="peeyushshar" /> </p>
 
-- 🔭 I’m currently working on **Python Ai Assistant**
+- 🔭 I’m currently working on **React with Asp.net**
 
 - 🌱 I’m currently learning **Development and DSA Problem solving**
 
-- 👯 I’m persuing my BTech degree **in Information Technology.**
+- 👯 I’m a **Software Engineer**
 
 - 📫 How to reach me **peeyushsharma996633pcs@gmail.com**
 
