@@ -7,7 +7,7 @@ I'm deeply involved in competitive coding and love diving into Data Structures a
 
 - 🔭 I’m currently working on **React with Asp.net**
 
-- 🌱 Exploring: **Advanced DSA techniques, Clean Architecture in .NET**
+- 🌱 Exploring: **Advanced DSA techniques, Clean Architecture in .NET and also abp.io Domain Driven Design Architecture**
 
 - 👯 Looking to collaborate on: **Open-source projects, Competitive coding challenges**
 
