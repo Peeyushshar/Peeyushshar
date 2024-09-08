@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peeyush Sharma</h1>
-<h3 align="center">I’m a dedicated Full Stack Developer with a strong focus on React and ASP.NET. My passion lies in solving complex problems and building efficient, scalable applications. I'm always on the lookout for new challenges that push the boundaries of my coding skills.
+<23 align="center">I’m a dedicated Full Stack Developer with a strong focus on React and ASP.NET. My passion lies in solving complex problems and building efficient, scalable applications. I'm always on the lookout for new challenges that push the boundaries of my coding skills.
 
-I'm deeply involved in competitive coding and love diving into Data Structures and Algorithms (DSA). This not only helps me stay sharp but also fuels my curiosity to explore advanced DSA techniques.</h3>
+I'm deeply involved in competitive coding and love diving into Data Structures and Algorithms (DSA). This not only helps me stay sharp but also fuels my curiosity to explore advanced DSA techniques.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peeyushshar&label=Profile%20views&color=0e75b6&style=flat" alt="peeyushshar" /> </p>
 
@@ -13,7 +13,7 @@ I'm deeply involved in competitive coding and love diving into Data Structures a
 
 - 📫 How to reach me **peeyushsharma996633pcs@gmail.com**
 
-- ⚡ Fun fact **I solve coding problems for fun and love learning new technologies!**
+- ⚡ Fun fact: **I solve coding problems for fun and love learning new technologies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
